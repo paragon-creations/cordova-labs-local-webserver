@@ -1,0 +1,59 @@
+{
+  "_from": "git+https://github.com/apache/cordova-plugins.git#local-webserver",
+  "_id": "cordova-labs-local-webserver@2.3.1",
+  "_inBundle": false,
+  "_integrity": "",
+  "_location": "/cordova-labs-local-webserver",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "git",
+    "raw": "git+https://github.com/apache/cordova-plugins.git#local-webserver",
+    "rawSpec": "git+https://github.com/apache/cordova-plugins.git#local-webserver",
+    "saveSpec": "git+https://github.com/apache/cordova-plugins.git#local-webserver",
+    "fetchSpec": "https://github.com/apache/cordova-plugins.git",
+    "gitCommittish": "local-webserver"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "git+https://github.com/apache/cordova-plugins.git#dfe33643d7547367dfb77b507f10ad361b71f732",
+  "_spec": "git+https://github.com/apache/cordova-plugins.git#local-webserver",
+  "_where": "/Users/oren/Projects/git/tabit-app-cordova",
+  "author": "",
+  "bugs": {
+    "url": "https://github.com/Collaborne/cordova-plugins/issues"
+  },
+  "bundleDependencies": false,
+  "cordova": {
+    "id": "cordova-labs-local-webserver",
+    "platforms": [
+      "ios"
+    ]
+  },
+  "dependencies": {
+    "urijs": "^1.17.1"
+  },
+  "deprecated": false,
+  "description": "Cordova Local Web Server Plugin",
+  "engines": [
+    {
+      "name": "cordova-ios",
+      "version": ">=4.0.0-dev"
+    }
+  ],
+  "homepage": "https://github.com/Collaborne/cordova-plugins#readme",
+  "keywords": [
+    "cordova",
+    "local web server",
+    "ecosystem:cordova",
+    "cordova-ios"
+  ],
+  "license": "Apache-2.0",
+  "name": "cordova-labs-local-webserver",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Collaborne/cordova-plugins.git"
+  },
+  "version": "2.3.1"
+}
